@@ -1,8 +1,6 @@
-# Sorting Algorithms Visualization
-Sorting lgorithm Visualizer is an interactive web platform that visualizes algorithms from code. since learning algorithm gets much easier with visualizing it.
-<div align="center">
-  <img src = "https://github.com/anotherwebguy/Sorting_AlgoVisualizer/blob/main/icon.png" height=100 alt="sorting visualizer">
-</div>
+# Algo Sortify
+Algo Sortify is an interactive web platform designed to bring algorithms to life through real-time visualizations, making it significantly easier and more intuitive to understand algorithmic concepts.
+
 
 ----
 ## Tech stack
@@ -13,15 +11,15 @@ Sorting lgorithm Visualizer is an interactive web platform that visualizes algor
 
 ----
 ## Algorithms Supported:
-  1. <h2><b>Bubble Sort:</b></h2> Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order.
-  2. <h2><b>Selection Sort:</b></h2> The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning.
-  3. <h2><b>Insertion Sort:</b></h2> In Insertion sort, the array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
-  4. <h2><b>Merge Sort:</b></h2> In Merge Sort, the array is initially divided into two equal halves and then they are combined in a sorted manner.
-  5. <h2><b>Quick Sort:</b></h2> Quick Sort picks an element as a pivot and partitions the given array around the picked pivot. The target of partitions is, given an array and an element x of an array as the pivot, put x at its correct position in a sorted array and put all smaller elements (smaller than x) before x, and put all greater elements (greater than x) after x.
-  6. <h2><b>Heap Sort:</b></h2> Heap sort is a comparison-based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the minimum element and place the minimum element at the beginning.
-
+  1. <h2><b>Bubble Sort:</b></h2> Bubble Sort is one of the simplest sorting algorithms. It works by repeatedly comparing and swapping adjacent elements if they are in the incorrect order.
+  2. <h2><b>Selection Sort:</b></h2> Selection Sort sorts an array by repeatedly identifying the minimum element from the unsorted section and moving it to the beginning.
+  3. <h2><b>Insertion Sort:</b></h2> In Insertion Sort, the array is divided into a sorted and an unsorted portion. Elements from the unsorted section are inserted into their appropriate positions in the sorted section.
+  4. <h2><b>Merge Sort:</b></h2> Merge Sort divides the array into two halves, sorts them recursively, and then merges the sorted halves to produce the final sorted array.
+  5. <h2><b>Quick Sort:</b></h2> Quick Sort selects a pivot element and partitions the array around it. Elements smaller than the pivot are placed before it, and elements greater than the pivot are placed after it, recursively sorting the array.
+  6. <h2><b>Heap Sort:</b></h2> Heap Sort is a comparison-based sorting algorithm that uses a Binary Heap data structure. It works similarly to Selection Sort by finding the minimum (or maximum) element and placing it in the correct position.
 ----
 ## ScreenShots:
-![p1](https://user-images.githubusercontent.com/66346161/181311355-2d6bb09b-de6f-46c4-bd4b-a3e0ff6720b1.png)
-![p2](https://user-images.githubusercontent.com/66346161/181311371-d2c135de-d21a-42c8-84cb-6a5643373550.png)
-![p3](https://user-images.githubusercontent.com/66346161/181311392-c0e9c9d0-ad87-48fd-abff-4a81d29ea573.png)
+
+![P1](https://github.com/user-attachments/assets/51628b19-d02e-4693-b4b6-5d85ab3c2cf3)
+![P2](https://github.com/user-attachments/assets/289a5fbd-affe-42f5-9f3c-571bd205211b)
+![P3](https://github.com/user-attachments/assets/7e0a64a3-9f4f-4f09-b90c-cbd32acc5474)
